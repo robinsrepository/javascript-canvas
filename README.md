@@ -13,13 +13,13 @@ The next 5 demonstrate fun animations and interactions:
 If you need some inspiration for a song, try this one:  
 
 
-P  P  P   P  P  P  P  +  8  9  P
+  P  P  P   P  P  P  P  +  8  9  P
 
-\-  \-  \-  \- \-  P  P  P  P  P  9  9  P  9   +
+  \-  \-  \-  \- \-  P  P  P  P  P  9  9  P  9   +
 
-P  P  P   P  P  P  P  +  8  9  P
+  P  P  P   P  P  P  P  +  8  9  P
 
-\-  \-  \-  \- \-  P  P  P P  +  +  -  9  8
+  \-  \-  \-  \- \-  P  P  P P  +  +  -  9  8
 
 
 ## Remarks
