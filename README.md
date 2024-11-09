@@ -12,14 +12,10 @@ Interactive hover effects that trigger animations on mouse over.
 A piano that can be played using your keyboard.
 If you need some inspiration for a song, try this one:
 
-P P P  P P P
-P + 8 9 P
-- - - -- P P
-P P P 9 9 P 9  +
-P P P  P P P
-P + 8 9 P
-- - - -- P P
-PP + + - 9 8
+- P P P  P P P P + 8 9 P
+- \- \- \- -- P P P P P 9 9 P 9  +
+- P P P  P P P P + 8 9 P
+- \- \- \- -- P P PP + + - 9 8
 
 **Remarks**
 In an effort to keep the code clean and easy to follow, I removed almost all of the detailed comments that I originally wrote for myself. 
