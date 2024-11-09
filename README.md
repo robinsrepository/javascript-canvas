@@ -1,11 +1,10 @@
 # **Combined JavaScript Canvas Projects**
 
 ## **Description**
-A combination of eight projects I created using the JavaScript Canvas element.  
+A combination of eight projects I created using the JavaScript Canvas element to create dynamic visuals.    
 Some projects showcase visual effects, animations and interactive features like hover effects and a keyboard-controlled piano.  
 
 ## **Features**
-Eight individual Canvas projects to create dynamic visuals.  
 In the first 3 I learned to draw objects with different Canvas API methods.  
 The next 5 demonstrate fun animations and interactions:  
 Interactive hover effects that trigger animations on mouse over.  
