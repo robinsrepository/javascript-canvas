@@ -1,0 +1,142 @@
+body {
+    background: skyblue;
+    margin: 10px;
+}
+
+.canvasBox {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
+    grid-gap: 10px; /* space between items */
+}
+
+canvas {
+    /* Make my columns look like squares */
+    /* border: 1px solid #000; */
+    width: 100%;
+    height: 345px;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+
+@media (max-width: 1024px) {
+    .canvasBox {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .canvasBox {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .canvasBox {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.project1 {
+    background-image: url("img/pexels-rickyrecap-2287952.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#project1 {
+    width: 55%;
+    height: 80%;
+}
+
+.project2 {
+    background: seagreen;
+    border-radius: 20px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.project3 {
+    background: lightblue;
+    border-radius: 20px;
+}
+
+.project4 {
+    background: slategray;
+    border-radius: 20px;
+}
+
+.project5 {
+    background: steelblue;
+    border-radius: 20px;
+}
+
+#project5 {
+    border-radius: 20px;
+    position: relative;
+    width: 100%;
+    /* height: 100%; */
+}
+
+.project6 {
+    background: palevioletred;
+    border-radius: 20px;
+}
+
+.project7 {
+    background-image: url("img/pexels-felixmittermeier-956981.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#piano {
+    position: relative;
+    z-index: 100;
+    margin: auto;
+    top: 100px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 90%;
+    height: 33%;
+    max-height: 345px;
+    border: 5px solid #12003b;
+    border-radius: 10px;
+}
+
+.whiteKey {
+    background: #fff;
+    border-right: 1px solid #777;
+    box-sizing: border-box;
+    border: 1px solid #000;
+    border-radius: 0 0 5px 5px;
+    height: 100%;
+    width: 7.14%;
+    float: left;
+}
+
+.blackKey {
+    background: #000;
+    border-radius: 0 0 5px 5px;
+    height: 60%;
+    width: 80%;
+    transform: translate(80%);
+}
+
+.project8 {
+    background: deepskyblue;
+    border-radius: 20px;
+}
