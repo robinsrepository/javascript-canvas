@@ -7,8 +7,8 @@ Some projects showcase visual effects, animations and interactive features like 
 ## **Features**
 In the first 3 I learned to draw objects with different Canvas API methods.  
 The next 5 demonstrate fun animations and interactions:  
-Interactive hover effects that trigger animations on mouse over.  
-A piano that can be played using your keyboard.  
+- Interactive hover effects that trigger animations on mouse over.  
+- A piano that can be played using your keyboard.  
 If you need some inspiration for a song, try this one:  
 
 
