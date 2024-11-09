@@ -11,6 +11,7 @@ The next 5 demonstrate fun animations and interactions:
 Interactive hover effects that trigger animations on mouse over.
 A piano that can be played using your keyboard.
 If you need some inspiration for a song, try this one:
+
 P P P  P P P
 P + 8 9 P
 - - - -- P P
