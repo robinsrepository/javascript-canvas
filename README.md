@@ -1,4 +1,4 @@
-# Combined JavaScript Canvas Projects 
+# Combined JavaScript Canvas Projects 🖼️
 
 ## Description
 A combination of eight projects I created using the JavaScript Canvas element to create dynamic visuals.    
