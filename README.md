@@ -32,8 +32,8 @@ feel free to check out my individual projects in [this repository](https://robin
 
 ## How to Use
 1. Clone or download the repository.
-3. Open the index.html file in your browser.
-5. Enjoy exploring the different Canvas projects!
+2. Open the index.html file in your browser.
+3. Enjoy exploring the different Canvas projects!
 
 ## Live Version
 You can view the live version of the project here: [Live Demo](https://robinsrepository.github.io/javascript-canvas/)
