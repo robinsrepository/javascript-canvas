@@ -13,7 +13,7 @@ The next 5 projects demonstrate fun animations and interactions:
 
 ## Remarks
 To keep the code clean and easy to read, I removed almost all of the notes that I wrote for myself in this version.  
-If you prefer to view the original code versions with all my notes, feel free to check them out in [this repository](https://robinsrepository.github.io/individual-canvas-projects/).  
+If you prefer to view the original code versions with all my notes, feel free to check them out in [this repository](https://github.com/robinsrepository/individual-canvas-projects).  
 
 ## How to Use
 1. Clone or download the repository.
