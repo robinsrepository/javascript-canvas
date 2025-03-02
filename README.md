@@ -1,7 +1,7 @@
 # My JavaScript Canvas Projects 🖼️
 
 ## Description
-A combination of eight tutorials I followed using JavaScript and the canvas element to create dynamic visuals.    
+A combination of eight projects I made using JavaScript and the canvas element to create dynamic visuals.    
 Some projects showcase visual effects, animations and interactive features, like hover effects and a keyboard-controlled piano.  
 At the end of these tutorials I was able to add some things myself, by applying what I've learned, like the snowflakes for example!  
 
