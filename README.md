@@ -6,7 +6,7 @@ Some projects showcase visual effects, animations and interactive features, like
 At the end of these tutorials I was able to add some things myself by applying what I've learned, like the snowflakes for example!  
 
 ## Features
-In the first 3 I learned to draw objects with different Canvas API methods.  
+In the first 3 projects I learned to draw objects with different Canvas API methods.  
 The next 5 demonstrate fun animations and interactions:  
 - Interactive hover effects that trigger animations on mouse over.  
 - A piano that can be played using your keyboard.  
