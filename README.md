@@ -2,7 +2,7 @@
 
 ## Description
 A combination of eight projects I created using JavaScript and the canvas element to create dynamic visuals.    
-Some projects showcase visual effects, animations and interactive features like hover effects and a keyboard-controlled piano.  
+Some projects showcase visual effects, animations and interactive features, like hover effects and a keyboard-controlled piano.  
 I am most proud of the fact that I drew the snowflakes all by myself! Of course I only drew one and then multiplied it.  
 
 ## Features
